@@ -26,11 +26,12 @@ GIVEN a command-line application that accepts user input
 - WHEN I click on the links in the Table of Contents
     - THEN I am taken to the corresponding section of the README
 
-
+/Users/timothy.wardlow/Desktop/Professional-README-Generator/Assets/screen-recording2.mov
 
 ## Video Walkthrough and GitHub Link
 https://github.com/timothy-wardlow/Professional-README-Generator
-![screen-recording](./Assets/screen-recording.mov)
+
+![screen-recording](/Users/timothy.wardlow/Desktop/Professional-README-Generator/Assets/screen-recording2.mov)
 
 
 ## Tech
