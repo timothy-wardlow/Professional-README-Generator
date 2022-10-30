@@ -61,7 +61,7 @@ function init() {
         .then((data) => {
             console.log(data);
             console.log(JSON.stringify(data, null, " "));
-            writeToFile("./Example/README.md", data);
+            writeToFile("./Output/README.md", data);
         })
         .catch((error) => {
             console.log(error);
