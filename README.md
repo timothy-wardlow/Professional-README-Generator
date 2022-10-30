@@ -31,7 +31,7 @@ GIVEN a command-line application that accepts user input
 ## Video Walkthrough and GitHub Link
 https://github.com/timothy-wardlow/Professional-README-Generator
 
-![Screen Recording](./Assets/screen-recording2.mp4)
+[Screen Recording](https://drive.google.com/file/d/1S45rTrDuPo_YW__oTrEKM3ffAEFOXmFY/view?usp=sharing)
 
 
 ## Tech
