@@ -108,7 +108,7 @@ function generateMarkdown(data) {
   - [License](#License)
   - [Contact](#Contact)
 
-  ## Installtion
+  ## Installation
   ${data.installation}
 
   ## Usage
