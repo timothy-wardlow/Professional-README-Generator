@@ -2,14 +2,12 @@
 
 ## Description 
 
-
+In this project we were asked to create an application using Node JS that creates a professional project README based on user input.
 
 ## User Story
 AS A developer
 - I WANT a README generator
 - SO THAT I can quickly create a professional README for a new project
-
-
 
 ## Acceptance Criteria
 GIVEN a command-line application that accepts user input
@@ -32,7 +30,7 @@ GIVEN a command-line application that accepts user input
 
 ## Video Walkthrough and GitHub Link
 https://github.com/timothy-wardlow/Professional-README-Generator
-
+![screen-recording](./Assets/screen-recording.mov)
 
 
 ## Tech
@@ -41,3 +39,4 @@ https://github.com/timothy-wardlow/Professional-README-Generator
 - Inquirer
 
 ## Example
+![screenshot](./Assets/screenshot.png)
